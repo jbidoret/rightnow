@@ -2,13 +2,13 @@
 
 Small routine to update a `now` static HTML page from console.
 
-Uses a bash script, a python script (runing into a virtual env), with BeautifulSoup and Markdown, a git repository.
+Uses a bash script, a python script (running into a virtual env), with BeautifulSoup and Markdown, a git repository.
 
 ## 1. Base requirements
 
 [Tidy](http://www.html-tidy.org/) is required to beautify our HTML (that we want to look as nice as possible).
 
-It might be already installed on your system. Check it out in your console by runing:
+It might be already installed on your system. Check it out in your console by running:
 ```sh
 tidy --version
 ```
