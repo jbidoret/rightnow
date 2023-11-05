@@ -29,7 +29,7 @@ git clone https://github.com/jbidoret/rightnow.git /your/path/to/now
 cd /your/path/to/now
 git set-url origin git@github.com:your_own/repository.git
 ```
-Create the virtualenv, install the dependencies. The main dependencies are pytidylib that allows tidyfication of the HTML, BeautifulSoup and Markdown, with `mdx-linkify` extension (to transform raw URLs into hyperlinks).
+Create the virtualenv, install the dependencies. The main dependencies are [pytidylib](https://pythonhosted.org/pytidylib/) that allows tidyfication of the HTML, [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) and [Markdown](https://python-markdown.github.io/), with [mdx-linkify](https://github.com/daGrevis/mdx_linkify) extension (to transform raw URLs into hyperlinks).
 
 ```sh
 python -m venv env # create `env` virtualenv
@@ -53,6 +53,6 @@ alias now='/your/path/to/now/rightnow.sh'
 now
 ```
 
-Deply strategy is out of the scope of the tool. Github/Gitlab pages can be an option, a deploy script based on a hook can be another. 
+Deploy strategy is out of the scope of this tool and doc. Github/Gitlab pages can be an option, a deploy script based on a hook can be another. 
 
 Oldschoolars might prefer Rsync that the git-based workflow.
