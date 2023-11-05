@@ -1,0 +1,10 @@
+beautifulsoup4==4.12.2
+bleach==6.1.0
+html5lib==1.1
+lxml==4.9.3
+Markdown==3.5
+mdx-linkify==2.1
+pytidylib==0.3.2
+six==1.16.0
+soupsieve==2.5
+webencodings==0.5.1
