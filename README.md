@@ -1,3 +1,9 @@
+
+This project has been moved to Codeberg: [codeberg.org/julienbidoret/pechakucha](https://codeberg.org/julienbidoret/rightnow)
+
+Please update your bookmarks!
+
+
 # Rightnow
 
 Small routine to update a `now` static HTML page from console.
