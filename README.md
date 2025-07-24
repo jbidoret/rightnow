@@ -1,5 +1,5 @@
 
-This project has been moved to Codeberg: [codeberg.org/julienbidoret/pechakucha](https://codeberg.org/julienbidoret/rightnow)
+This project has been moved to Codeberg: [codeberg.org/julienbidoret/rightnow](https://codeberg.org/julienbidoret/rightnow)
 
 Please update your bookmarks!
 
